@@ -1,7 +1,7 @@
 # Sentiment Analysis using Naive Bayes with Spark implementation
 
 ## Data
-- We will work with Amazon Reviews. These reviews, made available by [Julian McAuley, UCSD], are raw qualitative (text) and quantitative (rating) evaluations of products by users. 
+- We will work with Amazon Reviews. These reviews, made available by [Julian McAuley, UCSD](http://jmcauley.ucsd.edu/data/amazon/), , are raw qualitative (text) and quantitative (rating) evaluations of products by users. 
 ## Project Goal:
 - We propose to use ML+NLP on positive/negative reviews to see what words carry out a positive/negative meaning for users.
 - Process:
